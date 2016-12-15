@@ -1,3 +1,9 @@
+runc (1.0.0~rc1-0ubuntu2~16.10.1) yakkety; urgency=medium
+
+  * Backport to Yakkety. (LP: #1639407)
+
+ -- Michael Hudson-Doyle <michael.hudson@ubuntu.com>  Thu, 15 Dec 2016 13:33:42 +1300
+
 runc (1.0.0~rc1-0ubuntu2) zesty; urgency=medium
 
   [ Tianon Gravi ]
