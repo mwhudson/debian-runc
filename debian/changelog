@@ -1,3 +1,9 @@
+runc (1.0.0~rc2+docker1.13.1-0ubuntu1~17.04.1) xenial; urgency=medium
+
+  * Backport to Zesty. (LP: #1712954)
+
+ -- Michael Hudson-Doyle <michael.hudson@ubuntu.com>  Mon, 28 Aug 2017 09:44:00 +1200
+
 runc (1.0.0~rc2+docker1.13.1-0ubuntu1) artful; urgency=medium
 
   * Update to Docker 1.13.1's commit
